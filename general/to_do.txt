@@ -1,0 +1,5 @@
+1. opdracht lezen
+2. ERD opstellen
+3. mappen van de ERD
+4. wireframes opstellen
+5. databank met kaarten opstellen
