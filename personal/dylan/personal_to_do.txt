@@ -1,1 +1,0 @@
-JDBC, research:http://www.tutorialspoint.com/jdbc/jdbc-db-connections.htm
